@@ -1,0 +1,15 @@
+/*
+Name
+group
+vmsize
+OS
+SQLyear
+SQledition
+OSDiskSku
+DataDiskSku
+LogDiskSku
+Tags
+	LifeCycle
+	ServiceLevel
+	CostPlan
+*/
